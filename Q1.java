@@ -2,6 +2,11 @@
 
 public class Q1 {
     public static void main(String[] args) {
-        // Your solution here
+        System.out.println("U   U   B B       C C     O O");
+        System.out.println("U   U   B   B   C       O     O");
+        System.out.println("U   U   B B     C       O     O");
+        System.out.println("U   U   B   B   C       O     O");
+        System.out.println(" U U    B B       C C     O O ");
+            }
     }
-}
+

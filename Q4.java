@@ -5,7 +5,7 @@ public class Q4 {
     Scanner calc = new Scanner(System.in);
     double v_i,v_f,t;
     
-    // Enter username and press Enter
+
     System.out.println("Enter intial velocity m/s:"); 
     v_i = calc.nextDouble();   
     System.out.println("Enter final velocity in m/s:"); 
